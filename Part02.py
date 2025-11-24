@@ -2,7 +2,7 @@ from manim import *
 import numpy as np
 from scipy.stats import norm
 
-class BlackScholesVideo(ThreeDScene):
+class Part02(ThreeDScene):
 
     def construct(self):
         # -------------------------
@@ -242,4 +242,5 @@ class BlackScholesVideo(ThreeDScene):
             curve.set_points_as_corners(points)
             curve.set_color(color)
             self.play(Create(curve), run_time=1.2)
+
         self.wait(25)
