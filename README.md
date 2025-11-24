@@ -1,5 +1,5 @@
 # finance-video
-This repository was created as part of the lecture accompanying examination (LBP) in the Financial Markets and Risk Management course in the Winter Semester 2025/26 at the University of Stuttgart. It contains the [Manim](https://www.manim.community/) code used to generate a video that tries to visually explain the financial risks involved in naked option selling using animations in the style popularized by [3Blue1Brown](https://www.youtube.com/@3blue1brown).
+This repository was created as part of the lecture accompanying examination (LBP) in the Financial Markets and Risk Management course in the Winter Semester 2025/26 at the University of Stuttgart. It contains the [Manim](https://www.manim.community/) code used to generate a video, that tries to visually explain the financial risks involved in naked option selling, using animations in the style popularized by [3Blue1Brown](https://www.youtube.com/@3blue1brown).
 
 ## Installation
 To run the animations locally, make sure you have Python installed on your local machine:
